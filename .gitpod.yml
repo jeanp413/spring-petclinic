@@ -18,5 +18,6 @@ jetbrains:
   intellij:
     plugins:
       - com.haulmont.jpab
+      - Stapler plugin for IntelliJ IDEA
     prebuilds:
       version: both
